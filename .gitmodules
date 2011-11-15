@@ -1,3 +1,6 @@
 [submodule "alexandria"]
 	path = alexandria
 	url = git@github.com:pschultz/alexandria.git
+[submodule "kiosk"]
+	path = kiosk
+	url = git@github.com:pschultz/kiosk.git

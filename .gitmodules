@@ -4,3 +4,6 @@
 [submodule "kiosk"]
 	path = kiosk
 	url = git@github.com:pschultz/kiosk.git
+[submodule "relaisctrl"]
+	path = relaisctrl
+	url = git@github.com:pschultz/relaisctrl.git

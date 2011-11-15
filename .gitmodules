@@ -1,0 +1,3 @@
+[submodule "alexandria"]
+	path = alexandria
+	url = git@github.com:pschultz/alexandria.git

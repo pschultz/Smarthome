@@ -7,3 +7,6 @@
 [submodule "relaisctrl"]
 	path = relaisctrl
 	url = git@github.com:pschultz/relaisctrl.git
+[submodule "document-archive"]
+	path = document-archive
+	url = git@github.com:pschultz/document-archive.git
